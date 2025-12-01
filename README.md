@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-I’m a passionate **Unity Game Developer** with over four years of hands-on experience in creating high-quality games across mobile, PC, and WebGL platforms.  
+I’m a passionate **Unity Game Developer** with over 4 years of hands-on experience in creating high-quality games across mobile, PC, and WebGL platforms.  
 My expertise lies in **game mechanics, AI systems, UI/UX, performance optimization, and monetization (ads + IAP)**.  
 I’ve worked on a range of projects, from **FPS and simulation games** to **2D and 2.5D puzzle games**, each designed with polished gameplay and user engagement in mind.
 
